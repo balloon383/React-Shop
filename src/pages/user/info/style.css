@@ -1,0 +1,22 @@
+.info__box{
+    flex: 1 1 30%;
+}
+.info__name--box{
+    display: flex;
+    justify-content: space-between;
+}
+.info__email--box{
+    display: flex;
+    justify-content: space-between;
+}
+.info__button{
+    text-align: center;
+    padding: 12px 20px;
+    border: none;
+    background-color: #ff2424;
+    font-weight: 700;
+    color: #fff;
+    display: block;
+    margin: 0 auto;
+    border-radius: 20px;
+}

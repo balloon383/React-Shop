@@ -1,0 +1,20 @@
+.summary__box{
+    flex: 1 1 30%;
+}
+.summary__box ul{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+.summary__text{
+    font-weight: 700;
+}
+.summary__button{
+    border-radius: 20px;
+    padding: 12px 20px;
+    border: none;
+    background-color: #ff2424;
+    font-weight: 700;
+    color: #fff;
+}

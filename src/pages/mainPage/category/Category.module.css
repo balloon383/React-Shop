@@ -1,0 +1,10 @@
+.content__container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.card__box {
+    display: flex;
+    justify-content: flex-start;
+    column-gap: 20px;
+}

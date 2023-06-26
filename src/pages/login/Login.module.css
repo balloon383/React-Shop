@@ -1,0 +1,8 @@
+.main__login{
+    display: flex;
+    justify-content: center;
+    column-gap: 25px;
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
